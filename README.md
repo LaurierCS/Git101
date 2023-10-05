@@ -14,16 +14,3 @@ $ git config --global user.name "My name"
 $ git config --global user.email "myname@domain.com"
 ```
 - ⚠️ Note: Omit the global flag `(--global)` to change user for specific repo 
-
-# Working with an existing project
-## Forking the repo
-
-## Cloning the repo
-
-## Branching
-
-## Staging and Commiting
-
-## Pushing
-
-## Submitting for review (Pull Requests)
