@@ -13,4 +13,9 @@ $ git config --global user.name "My name"
 ```sh
 $ git config --global user.email "myname@domain.com"
 ```
-- ⚠️ Note: Omit the global flag `(--global)` to change user for specific repo 
+- ⚠️ Note: Omit the global flag `(--global)` to change user for specific repo
+
+
+
+# Git Commands
+- `git init` - Initialize a local Git repository
