@@ -5,3 +5,5 @@ def isEven(number: int):
     
     else:
         return False
+
+    # MERGE CONFLICT
